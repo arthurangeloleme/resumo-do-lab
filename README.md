@@ -71,4 +71,59 @@ Muitas tarefas de gerenciamento, como provisionamento de servidores, balanceamen
 ## Conclusão
 A adoção da nuvem traz uma série de benefícios que vão desde a redução de custos até a melhoria da agilidade e segurança, permitindo que as empresas inovem e escalem seus negócios de forma eficiente.
 
+# Tipos de Serviços de Nuvem
 
+## 1. **IaaS (Infrastructure as a Service - Infraestrutura como Serviço)**
+
+### O que é?
+IaaS oferece infraestrutura de TI virtualizada por meio da internet. As empresas podem alugar recursos de computação, como servidores, armazenamento, e rede, sem precisar adquirir hardware físico.
+
+### Exemplos:
+- Microsoft Azure
+- Amazon Web Services (AWS)
+- Google Cloud
+
+### Benefícios:
+- Redução de custos com infraestrutura física.
+- Escalabilidade flexível de acordo com a demanda.
+- Controle sobre a infraestrutura, com a capacidade de instalar e gerenciar sistemas operacionais e aplicativos.
+
+---
+
+## 2. **PaaS (Platform as a Service - Plataforma como Serviço)**
+
+### O que é?
+PaaS fornece uma plataforma que permite às empresas desenvolver, executar e gerenciar aplicativos sem a complexidade de construir e manter a infraestrutura necessária. Ele oferece ferramentas de desenvolvimento, banco de dados, e ambientes de execução prontos para uso.
+
+### Exemplos:
+- Azure App Service
+- Google App Engine
+- Heroku
+
+### Benefícios:
+- Agilidade no desenvolvimento e lançamento de aplicativos.
+- Gerenciamento simplificado de infraestrutura e middleware.
+- Foco no desenvolvimento de software, enquanto o provedor gerencia a infraestrutura subjacente.
+
+---
+
+## 3. **SaaS (Software as a Service - Software como Serviço)**
+
+### O que é?
+SaaS entrega aplicativos completos por meio da internet, acessíveis por um navegador web. Os usuários podem acessar o software sem precisar instalá-lo localmente, e todo o gerenciamento do aplicativo é feito pelo provedor de serviços.
+
+### Exemplos:
+- Microsoft 365
+- Google Workspace
+- Salesforce
+
+### Benefícios:
+- Sem necessidade de instalação ou manutenção local.
+- Atualizações automáticas de software.
+- Acessível de qualquer dispositivo com conexão à internet.
+
+---
+
+## Conclusão
+
+Cada um desses modelos de serviço na nuvem oferece diferentes níveis de controle, flexibilidade e gerenciamento. As empresas podem escolher entre IaaS, PaaS e SaaS, dependendo de suas necessidades, seja para hospedar infraestrutura, desenvolver aplicativos ou consumir software pronto.
